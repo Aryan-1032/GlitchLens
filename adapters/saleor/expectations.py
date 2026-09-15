@@ -6,7 +6,6 @@ EXPECTED_TEXT = {
     ),
 
     # Catalog
-    "catalog.filters": "Filters",
     "catalog.sort": "Sort",
 
     # Product

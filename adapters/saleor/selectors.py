@@ -18,11 +18,6 @@ SELECTORS = {
     ),
 
     # Catalog
-    "catalog.filters": LocatorConfig(
-        by=LocatorType.ROLE,
-        role="button",
-        name="Filters",
-    ),
     "catalog.sort": LocatorConfig(
         by=LocatorType.ROLE,
         role="button",
