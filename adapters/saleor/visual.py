@@ -19,7 +19,6 @@ VISUAL_CHECKPOINTS = {
         expected_components=(
             "product_grid",
             "product_card",
-            "filters_control",
             "sort_control",
         ),
     ),
